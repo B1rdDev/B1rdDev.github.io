@@ -1,8 +1,8 @@
-Origin: AppleRebornRepo
-Label: AppleRebornRepo
+Origin: BirdDev
+Label: B1rdDev
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia Repo by @_AppleExpert.
+Description: This is a place for all my junk and stuff some redistribution and tweak development follow me on twitter @pickleborb, Repo by @_AppleExpert.
