@@ -1,0 +1,30 @@
+Package: jp.akusio.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20394
+MD5sum: a8a74ec4267ef6efb4e154427f3221d4
+SHA1: bce933ce4afeb227e88ce1d19616c58941dc4263
+SHA256: c934bdd594a13d281cb0ffeec144dd9655a577cebd9209e403fb65ae39284224
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Name: BackgrounderAction2 for CCSupport
+
+Package: jp.akusio.milkyway2
+Version: 0.2.0-alpha
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 73090
+MD5sum: 6418bc8d8344c6484843c78e354536cc
+SHA1: 2afef2b2c79128420f5923d6b15de29b8f5196b9
+SHA256: 74c3114fffc7661e8308496a7b279232db3a854dd6b224c016c0c1d3567d445f
+Section: Tweaks
+Description: Multitasking for iOS13.
+Author: akusio <akusio-report@neko2.net>
+Name: MilkyWay2
+
